@@ -23,6 +23,6 @@ https://rediichen.github.io/WD_prac2103_Vue_clock/
 # CDN
 在body的結束標籤前貼上下列codes：
 ```
-<script src="https://unpkg.com/vue@next" />
-<script src="https://rediichen.github.io/WD_prac2103_Vue_clock/main.js" />
+<script src="https://unpkg.com/vue@next"></script>
+<script src="https://rediichen.github.io/WD_prac2103_Vue_clock/main.js"></script>
 ```
