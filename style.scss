@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+    background: radial-gradient(#47683E, #091a06);
+}
+.clock {
+    height: 100vh;
+
+    h1 {
+        text-align: center;
+        font-size: 6em;
+        font-family: 'Roboto', sans-serif;
+        color : #b9ffa7 ;
+        line-height: 100vh;
+        text-shadow: 0 0 20px #f4ffe9;
+    }
+}
