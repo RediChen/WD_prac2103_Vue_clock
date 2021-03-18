@@ -11,8 +11,12 @@ body {
     height: 100vh;
 
     h1 {
-        text-align: center;
         font-size: 6em;
+        @media screen and (max-width : 767px) {
+            font-size: 3em;
+        }
+
+        text-align: center;
         font-family: 'Roboto', sans-serif;
         color : #b9ffa7 ;
         line-height: 100vh;
